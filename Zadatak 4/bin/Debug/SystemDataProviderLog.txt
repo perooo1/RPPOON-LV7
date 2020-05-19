@@ -1,0 +1,10 @@
+19-May-20 11:08:11 AM-> CPU load: 100Available RAM: 2547
+19-May-20 11:08:12 AM-> CPU load: 100Available RAM: 2523
+19-May-20 11:08:13 AM-> CPU load: 100Available RAM: 2501
+19-May-20 11:08:14 AM-> CPU load: 100Available RAM: 2501
+19-May-20 11:08:15 AM-> CPU load: 100Available RAM: 2502
+19-May-20 11:08:16 AM-> CPU load: 100Available RAM: 2501
+19-May-20 11:08:17 AM-> CPU load: 100Available RAM: 2497
+19-May-20 11:08:19 AM-> CPU load: 0Available RAM: 2492
+19-May-20 11:08:20 AM-> CPU load: 100Available RAM: 2502
+19-May-20 11:08:21 AM-> CPU load: 100Available RAM: 2499

@@ -1,0 +1,7 @@
+C:\Users\korisnik\source\repos\RPPOON LV7\Zadatak 2\obj\Debug\Zadatak 2.csprojAssemblyReference.cache
+C:\Users\korisnik\source\repos\RPPOON LV7\Zadatak 2\obj\Debug\Zadatak 2.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\source\repos\RPPOON LV7\Zadatak 2\bin\Debug\Zadatak 2.exe.config
+C:\Users\korisnik\source\repos\RPPOON LV7\Zadatak 2\bin\Debug\Zadatak 2.exe
+C:\Users\korisnik\source\repos\RPPOON LV7\Zadatak 2\bin\Debug\Zadatak 2.pdb
+C:\Users\korisnik\source\repos\RPPOON LV7\Zadatak 2\obj\Debug\Zadatak 2.exe
+C:\Users\korisnik\source\repos\RPPOON LV7\Zadatak 2\obj\Debug\Zadatak 2.pdb
